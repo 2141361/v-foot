@@ -1,0 +1,13 @@
+supervision~=0.25.1
+python-dotenv~=1.0.1
+tqdm~=4.67.1
+transformers~=4.48.1
+torch~=2.5.1
+numpy~=1.26.4
+umap-learn~=0.5.7
+more-itertools~=10.6.0
+scikit-learn~=1.6.1
+sports~=0.1.0
+pandas~=2.2.3
+ultralytics~=8.3.105
+opencv-python~=4.10.0.84
